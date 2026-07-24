@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const nome = document.getElementById('nome').value;
         const mensagem = document.getElementById('mensagem').value;
-        const telefone = '5561984036278'; // SEU NÚMERO DE WHATSAPP AQUI
+        const telefone = '5561995289297'; // SEU NÚMERO DE WHATSAPP AQUI
 
         const emailInput = document.getElementById('email');
         const email = emailInput ? emailInput.value : '';
